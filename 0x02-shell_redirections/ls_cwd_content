@@ -1,0 +1,35 @@
+total 896
+drwxrwxr-x 2 chimbuenyim chimbuenyim   4096 Sep  5 13:58 .
+drwxrwxr-x 6 chimbuenyim chimbuenyim   4096 Sep  5 12:29 ..
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     32 Sep  5 12:28 0-hello_world
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     56 Sep  5 12:28 100-empty_casks
+-rwxrwxr-x 1 chimbuenyim chimbuenyim    107 Sep  5 12:28 101-gifs
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     38 Sep  5 12:28 102-acrostic
+-rwxrwxr-x 1 chimbuenyim chimbuenyim    115 Sep  5 12:28 103-the_biggest_fan
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     48 Sep  5 12:28 10-no_more_js
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     49 Sep  5 12:28 11-directories
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     32 Sep  5 12:28 12-newest_files
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     27 Sep  5 12:28 13-unique
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     39 Sep  5 12:28 14-findthatword
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     41 Sep  5 12:28 15-countthatword
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     44 Sep  5 12:28 16-whatsnext
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     41 Sep  5 12:28 17-hidethisword
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     50 Sep  5 12:28 18-letteronly
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     36 Sep  5 12:28 19-AZ
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     27 Sep  5 13:33 1-confused_smiley
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     23 Sep  5 12:28 20-hiago
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     16 Sep  5 12:28 21-reverse
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     49 Sep  5 12:28 22-users_and_homes
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     28 Sep  5 12:28 2-hellofile
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     39 Sep  5 12:28 3-twofiles
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     36 Sep  5 12:28 4-lastlines
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     35 Sep  5 12:28 5-firstlines
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     40 Sep  5 12:28 6-third_line
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     99 Sep  5 13:55 7-file
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     36 Sep  5 12:28 8-cwd_state
+-rwxrwxr-x 1 chimbuenyim chimbuenyim     37 Sep  5 12:28 9-duplicate_last_line
+-rw-rw-r-- 1 chimbuenyim chimbuenyim    384 Sep  5 13:24 An Acrostic
+-rw-rw-r-- 1 chimbuenyim chimbuenyim     12 Sep  5 13:56 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 chimbuenyim chimbuenyim    802 Sep  5 13:52 iacta
+-rw-rw-r-- 1 chimbuenyim chimbuenyim      0 Sep  5 13:58 ls_cwd_content
+-rw-rw-r-- 1 chimbuenyim chimbuenyim 782913 Mar  8 20:08 nasa_19950801.tsv
